@@ -3,35 +3,35 @@
         "userId": 1,
         "id": "1",
         "username": "Harshal123",
-        "image": "https://www.pexels.com/photo/photo-of-stream-during-daytime-3225517/",
+        "image": "https://picsum.photos/200",
         "description":"Hey there is my post description"
     },
     {
         "userId": 2, 
         "id": "2",
         "username": "Viraj123",
-        "image": "https://www.pexels.com/photo/white-concrete-building-under-white-sky-11567527/",
+        "image": "https://picsum.photos/200",
         "description":"Hey there is my post description"
     },
     {
         "userId": 3,
         "id": "3",
         "username": "Vedika123",
-        "image": "https://www.pexels.com/photo/plume-11426101/",
+        "image": "https://picsum.photos/200",
         "description":"Hey there is my post description"
     },
     {
         "userId": 4,
         "id": "4",
         "username": "Amogh123",
-        "image": "https://www.pexels.com/photo/green-wooden-door-on-white-concrete-building-11324228/",
+        "image": "https://picsum.photos/200",
         "description":"Hey there is my post description"
     },
     {
         "userId": 5,
         "id": "5",
         "username": "Akshay123",
-        "image": "https://www.pexels.com/photo/green-plant-on-white-wooden-window-10838759/",
+        "image": "https://picsum.photos/200",
         "description":"Hey there is my post description"
     }
     ]
